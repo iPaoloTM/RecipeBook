@@ -1,0 +1,86 @@
+﻿@page
+@model IngredientModel
+@{
+    ViewData["Title"] = "Add New ingredients";
+}
+<style>
+    /* Reset some default button styles */
+    button, input[type="button"], input[type="submit"] {
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    
+    /* Default button style */
+    .button {
+      background-color: #4CAF50;
+      color: white;
+      border-radius: 4px;
+    }
+    
+    /* Hover effect */
+    .button:hover {
+      background-color: #45a049;
+    }
+    
+    
+    /* Active effect */
+    .button:active {
+      background-color: #3e8e41;
+    }
+    
+</style>
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<h3>Insert ingredient</h3>
+
+    <div class="form-group">
+        <form method="post" asp-page-handler="AddIngredient">
+                <label for="Name"><b>Name</b></label>
+                <input type="text" id="Name" name="Name" asp-for="Name" required />
+                <label for="Category"><b>Category</b></label>
+                <input type="text" id="Category" name="Category" asp-for="Category" required />
+                <label for="Time"><b>Location</b></label>
+                <input type="text" id="Location" name="Location" asp-for="Location" required />
+                <label for="Location"><b>Amount</b></label>
+                <input type="text" id="Amount" name="Amount" asp-for="Amount" required />
+                <br></br>
+            <button type="submit" class="btn btn-primary">Add</button>
+        </form>
+    </div>
+<hr/>
+<h3>List of Ingredients</h3>
+
+@if (Model.ListOfIngredients != null && Model.ListOfIngredients.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ingredient in Model.ListOfIngredients)
+            {
+                <tr>
+                    <td><strong>@ingredient.Name</strong></td>
+                    <td>@ingredient.Amount g</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <strong>No ingredients available</strong>
+}
+
+
+
+

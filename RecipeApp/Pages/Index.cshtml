@@ -1,0 +1,95 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<style>
+    /* Reset some default button styles */
+    button, input[type="button"], input[type="submit"] {
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    
+    /* Default button style */
+    .button {
+      background-color: #4CAF50;
+      color: white;
+      border-radius: 4px;
+    }
+    
+    /* Hover effect */
+    .button:hover {
+      background-color: #45a049;
+    }
+    
+    
+    /* Active effect */
+    .button:active {
+      background-color: #3e8e41;
+    }
+    
+</style>
+<div class="text-center">
+    <h1 class="display-4">Recipe Book</h1>
+    <hr/>
+    
+    <form method="post" asp-page-handler="SetData">
+        <label for="NPeople"><b>How many people eat?</b></label>
+        <input type="text" id="NPeople" name="NPeople" asp-for="NPeople" required />
+    
+        <label for="Time"><b>How much time do you have?</b></label>
+        <input type="text" id="Time" name="Time" asp-for="Time" required />
+        <br>
+        <label for="YesListOfIngredients"><b>Ingredients you want</b></label>
+        <input type="text" id="YesListOfIngredients" name="YesListOfIngredients" asp-for="YesListOfIngredients"  />
+        
+        <label for="NoListOfIngredients"><b>Ingredients you don't want</b></label>
+        <input type="text" id="NoListOfIngredients" name="NoListOfIngredients" asp-for="NoListOfIngredients"  />
+    
+        
+        <button type="submit" class="button">Search</button>
+    </form>
+    <br>
+    <h3>Recipes you can cook</h3>
+    
+    @if (Model.ListOfRecipes != null && Model.ListOfRecipes.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Ingredients</th>
+                    <th>Time Needed</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var recipe in Model.ListOfRecipes)
+                {
+                    <tr>
+                        <td><strong>@recipe.Name</strong></td>
+                        <td>
+                            <ul>
+                                @foreach (var ingredient in recipe.ListOfIngredients)
+                                {
+                                    <strong>@ingredient.Key:</strong> @ingredient.Value <text>g</text>
+                                }
+                            </ul>
+                        </td>
+                        <td>@recipe.Time minutes</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <strong>No recipes can be cooked in less than @Model.Time minutes or with @Model.NoListOfIngredients</strong>
+    }
+
+</div>

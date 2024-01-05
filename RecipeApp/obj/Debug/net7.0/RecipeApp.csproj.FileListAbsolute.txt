@@ -1,0 +1,222 @@
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.staticwebassets.runtime.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.deps.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.runtimeconfig.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.pdb
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Azure.Core.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Azure.Identity.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Humanizer.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.CodeDom.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.csproj.AssemblyReference.cache
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.AssemblyInfoInputs.cache
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.AssemblyInfo.cs
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.csproj.CoreCompileInputs.cache
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.RazorAssemblyInfo.cache
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.RazorAssemblyInfo.cs
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets/msbuild.RecipeApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets/msbuild.build.RecipeApp.props
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.RecipeApp.props
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.RecipeApp.props
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/scopedcss/bundle/RecipeApp.styles.css
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/scopedcss/projectbundle/RecipeApp.bundle.scp.css
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.csproj.CopyComplete
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/refint/RecipeApp.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.pdb
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.genruntimeconfig.cache
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/obj/Debug/net7.0/ref/RecipeApp.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/DAL.deps.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/DAL.runtimeconfig.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Entities.deps.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Entities.runtimeconfig.json
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Entities
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/DAL
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/DAL.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Entities.dll
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/DAL.pdb
+/Users/paoloaliprandi/Desktop/Recipe/RecipeApp/bin/Debug/net7.0/Entities.pdb
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/DAL.deps.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/DAL.runtimeconfig.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Entities.deps.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Entities.runtimeconfig.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Entities
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/DAL
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.staticwebassets.runtime.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.deps.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.runtimeconfig.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/RecipeApp.pdb
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Azure.Core.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Azure.Identity.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Humanizer.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.CodeDom.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/DAL.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Entities.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/DAL.pdb
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/bin/Debug/net7.0/Entities.pdb
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.csproj.AssemblyReference.cache
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.AssemblyInfoInputs.cache
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.AssemblyInfo.cs
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.csproj.CoreCompileInputs.cache
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.RazorAssemblyInfo.cache
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.RazorAssemblyInfo.cs
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets/msbuild.RecipeApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets/msbuild.build.RecipeApp.props
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.RecipeApp.props
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.RecipeApp.props
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets.build.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/staticwebassets.development.json
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/scopedcss/bundle/RecipeApp.styles.css
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/scopedcss/projectbundle/RecipeApp.bundle.scp.css
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.csproj.CopyComplete
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/refint/RecipeApp.dll
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.pdb
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/RecipeApp.genruntimeconfig.cache
+/Users/paoloaliprandi/Desktop/University of Trento/Master/Secondo Anno/Programming in C#/Recipe/RecipeApp/obj/Debug/net7.0/ref/RecipeApp.dll
